@@ -1,0 +1,27 @@
+{
+  "name": "fs-ensure-link",
+  "main": "./fs-ensure-link.js",
+  "dependencies": {
+    "bluebird": "^2.9.34"
+  },
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reggi/node-fs-ensure-link.git"
+  },
+  "keywords": [
+    "fs",
+    "ensure",
+    "link"
+  ],
+  "author": "Thomas Reggi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reggi/node-fs-ensure-link/issues"
+  },
+  "homepage": "https://github.com/reggi/node-fs-ensure-link#readme",
+  "description": ""
+}
